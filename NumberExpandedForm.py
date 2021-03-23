@@ -16,6 +16,6 @@ def expanded_form(num):
             list.append(str(x))
         length -= 1
         
-    #return the list in desired form   
+    #return the list in desired formm   
     answer = ' + '.join(list)
     return answer
